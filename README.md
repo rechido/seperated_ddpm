@@ -58,6 +58,32 @@ Trajectories of mean values of noisy images following time steps in reverse proc
   <img src="resource/9.png" />
 </p>
 
+FID Comparison with baseline DDPMs
+
+1. 256 Train Set
+
+<p align="center">
+  <img src="resource/10.png" />
+</p>
+
+2. 512 Train Set
+
+<p align="center">
+  <img src="resource/11.png" />
+</p>
+
+3. 1024 Train Set
+
+<p align="center">
+  <img src="resource/12.png" />
+</p>
+
+4. 2048 Train Set
+
+<p align="center">
+  <img src="resource/13.png" />
+</p>
+
 ## References
 
 PRDC codes are cited by the paper "https://proceedings.mlr.press/v119/naeem20a/naeem20a.pdf"
