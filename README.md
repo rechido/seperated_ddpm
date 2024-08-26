@@ -1,4 +1,4 @@
-## Seperated DDPM
+## Separated DDPM: Generalized forward/reverse process for non-standard Gaussian prior-based DDPM
 
 A pytorch implementation of Seperated DDPM.
 
