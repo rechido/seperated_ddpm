@@ -6,6 +6,24 @@ The codes are based on Huggingface diffusers from https://github.com/huggingface
 
 Author: Da Eun Lee
 
+## Method
+
+<p align="center">
+  <img src="resource/1.png" />
+</p>
+
+<p align="center">
+  <img src="resource/2.png" />
+</p>
+
+<p align="center">
+  <img src="resource/3.png" />
+</p>
+
+<p align="center">
+  <img src="resource/4.png" />
+</p>
+
 ## Experiments
 
 
