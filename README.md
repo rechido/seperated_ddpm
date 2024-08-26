@@ -26,7 +26,37 @@ Author: Da Eun Lee
 
 ## Experiments
 
+Trajectories of mean values of noisy images following time steps in reverse process.
 
+1. Linear
+
+<p align="center">
+  <img src="resource/5.png" />
+</p>
+
+2. Sqaure
+
+<p align="center">
+  <img src="resource/6.png" />
+</p>
+
+3. Sqaure root
+
+<p align="center">
+  <img src="resource/7.png" />
+</p>
+
+4. Sigmoid
+
+<p align="center">
+  <img src="resource/8.png" />
+</p>
+
+5. Shifted Diffusion 
+
+<p align="center">
+  <img src="resource/9.png" />
+</p>
 
 ## References
 
